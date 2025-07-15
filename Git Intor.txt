@@ -18,4 +18,8 @@ After we have to createa separate folder using Git Practice.
 Open it with vscode and Open the terminal.After that type git clone and copy the http code of repository and run it.
 Now we can edit or modify the local file in git.
 
+Now create a new file to test it. create file name test1.txt. After that run the command git status and it shows that as untracked.
+Then run the command git add test1.txt to add the file now it will in the waiting part.After that run                          git commit -m "test1.txt is added" (It will commit the file)
+git push origin main (This command will push that file into the main)
+
 
