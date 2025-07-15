@@ -5,3 +5,12 @@ Git:
         ---Github, Gitlab, bitbucket.
 
 
+Download the git in your computer.After that we have to use the below commands to interact with git
+open the cmd prompt.
+--type git to check its download confimation.
+--after type this command   :
+                    git config --global user.name"aravind1306" (we have type the correct username)
+--now type you email : 
+                    git config --global user.email"test2024@gmail.com"
+
+
