@@ -14,3 +14,8 @@ open the cmd prompt.
                     git config --global user.email"test2024@gmail.com"
 
 
+After we have to createa separate folder using Git Practice.
+Open it with vscode and Open the terminal.After that type git clone and copy the http code of repository and run it.
+Now we can edit or modify the local file in git.
+
+
