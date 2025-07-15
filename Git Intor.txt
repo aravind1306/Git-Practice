@@ -1,0 +1,7 @@
+Git:
+  Git is a popular version control system. It is used to track the code changes. 
+  Tracks the who made the changes.Git is used in collaboration code.
+  Some of the popular web based Git reository hosting services
+        ---Github, Gitlab, bitbucket.
+
+
